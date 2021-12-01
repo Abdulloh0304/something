@@ -1,0 +1,18 @@
+body{
+    background: url(https://9to5mac.com/wp-content/uploads/sites/6/2021/09/Mac.png?w=1024);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.contanier{
+    text-align-last: center;
+}
+.img{
+    flex-direction: row;
+    
+    
+}
+@media screen and (max-width: 600px) {
+    div.example {
+      display: none;
+    }
+}
